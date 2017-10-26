@@ -1,5 +1,4 @@
 
-//参考http://www.cnblogs.com/PSSSCode/p/5510585.html
 #import <Foundation/Foundation.h>
 
 @protocol personDelegate <NSObject>

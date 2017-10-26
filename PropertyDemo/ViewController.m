@@ -1,4 +1,6 @@
 
+//参考http://www.cnblogs.com/PSSSCode/p/5510585.html
+//http://www.jianshu.com/p/bcf734db475c
 
 #import "ViewController.h"
 #import "Student.h"
